@@ -1,0 +1,17 @@
+## En la terminal de visual agregamos lo siguiente
+```bash
+    py -m venv "Nombre_para_tu_entorno_virtual"
+```
+## Luego
+```bash
+ nombre_de_tu_entorno\Script\activate
+```
+### tendria que aparecerte (env) si fue activado
+
+# Ya tenemos nuestro entorno virtual, a partir de ahora podemos instalar las librerias que necitemos
+
+
+## Probamos la siguinte libreria
+```bash
+ pip install rich
+```
